@@ -1,0 +1,779 @@
+﻿category,item,price,description,nutrition,modifiers,image
+Breakfast,Summer Fruit Cup,3.49,"Fresh cut fruit to include pineapple, cantelope, strawberries and blueberries","Calories                           60 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              15 g
+Dietary Fiber                  2 g
+Total Sugars                    9 g
+Protein                             1 g ",,
+Breakfast,Greek Yogurt Parfait with Mixed Berries and Granola,4.49,Greek yogurt with granola made from whole grain oats and fresh strawberries and blueberries,"Calories                           250 Cal
+Calories                            90 Cal
+from Fat
+Fat                                      10 g
+Saturated                        5 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    30 mg
+Sodium                            80 mg
+Carbohydrates              27 g
+Dietary Fiber                  2 g
+Total Sugars                    17 g
+Protein                             14 g ",,
+Breakfast,Steel Cut Oatmeal with Strawberries and Pecans,5.19,"Steel cut oats, cooked to perfection with strawberries, pecans and cinnamon crunch topping.","Calories                           360 Cal
+Calories                            130 Cal
+from Fat
+Fat                                      15 g
+Saturated                        2 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    5 mg
+Sodium                            150 mg
+Carbohydrates              52 g
+Dietary Fiber                  9 g
+Total Sugars                    17 g
+Protein                             8 g ","no strawberries
+no pecans
+no cinnamon crunch topping",
+Breakfast,Egg & Cheese on Brioche,4.49,"Over easy egg, Vermont white cheddar, salt and pepper on Brioche.","Calories                           390 Cal
+Calories                            180 Cal
+from Fat
+Fat                                      20 g
+Saturated                        10 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    280 mg
+Sodium                            560 mg
+Carbohydrates              32 g
+Dietary Fiber                  1 g
+Total Sugars                    6 g
+Protein                             20 g ","+ Whole Grain bread                                       free
++ Sourdough bread                                          free
++ American Cheese                                          $0.99
++ Swiss Cheese                                                  $0.99
++ Bacon                                                                 $0.99
++ Sausage                                                            $0.99
++ Artisan Ham                                                    $1.50
++ Avocado                                                            $0.99
++ Sliced Tomatoes                                             free
+no Salt
+no Pepper",
+Bakery,Blueberry Muffin,2.79,Freshly baked muffin made with fresh blueberries and topped with Turbinado sugar.,"Calories                           460 Cal
+Calories                            160 Cal
+from Fat
+Fat                                      18 g
+Saturated                        3 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    60 mg
+Sodium                            380 mg
+Carbohydrates              69 g
+Dietary Fiber                  1 g
+Total Sugars                    40 g
+Protein                             6 g ",,
+Bakery,Cranberry Orange Muffin,2.79,"Freshly baked muffin made with orange peel and whole cranberries, topped with Turbinado sugar.","Calories                           480 Cal
+Calories                            170 Cal
+from Fat
+Fat                                      19 g
+Saturated                        3 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    65 mg
+Sodium                            360 mg
+Carbohydrates              71 g
+Dietary Fiber                  2 g
+Total Sugars                    40 g
+Protein                             6 g ",,
+Bakery,Plain Bagel,1.39,Freshly baked bagel,"Calories                           280 Cal
+Calories                            10 Cal
+from Fat
+Fat                                      1 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            410 mg
+Carbohydrates              57 g
+Dietary Fiber                  2 g
+Total Sugars                    4 g
+Protein                             10 g ","+ Toasted                                                            free
++ Butter                                                                free
++ Cream Cheese                                               $0.99
++ Reduced Fat                                                   $0.99
+Cream Cheese",
+Bakery,Sprouted Grain Bagel Flat,1.39,"Freshly baked sprouted whole grain bagel topped with oats, pinched and slightly flattened to the perfect size.  2 servings of whole grain/bagel flat. (56% whole grain)","Calories                           180 Cal
+Calories                            20 Cal
+from Fat
+Fat                                      2 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            410 mg
+Carbohydrates              34 g
+Dietary Fiber                  3 g
+Total Sugars                    4 g
+Protein                             7 g ","+ Toasted                                                            free
++ Butter                                                                free
++ Cream Cheese                                               $0.99
++ Reduced Fat                                                   $0.99
+Cream Cheese",
+Soup,Chicken Noodle Soup,6.49,"Fresh vegetables and tender all-white chicken breast simmered in a delicately seasoned chicken broth with traditional egg noodles.
+Side: French Baguette","Calories                           170 Cal
+Calories                            35 Cal
+from Fat
+Fat                                      4 g
+Saturated                        1 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    40 mg
+Sodium                            1490 mg
+Carbohydrates              21 g
+Dietary Fiber                  3 g
+Total Sugars                    3 g
+Protein                             13 g ","no French Baguette
+",
+Soup,Creamy Tomato Soup,6.49,"Vine-ripened pear tomatoes pureed with fresh cream for a velvety smooth flavor accented by hints of red pepper and oregano and topped with focaccia croutons.
+Side: French Baguette","Calories                           340 Cal
+Calories                            190 Cal
+from Fat
+Fat                                      21 g
+Saturated                        11 g
+Fat
+Trans Fatty                      0.5 g
+Acid
+Cholesterol                    60 mg
+Sodium                            840 mg
+Carbohydrates              34 g
+Dietary Fiber                  1 g
+Total Sugars                    17 g
+Protein                             5 g ","no French Baguette
+no Croutons
+",
+Soup,Broccoli Cheddar Soup,6.49,"Chopped broccoli, shredded carrots and select seasonings simmered in a velvety smooth cheese sauce.
+Side: French Baguette","Calories                           360 Cal
+Calories                            190 Cal
+from Fat
+Fat                                      21 g
+Saturated                        13 g
+Fat
+Trans Fatty                      1 g
+Acid
+Cholesterol                    55 mg
+Sodium                            1330 mg
+Carbohydrates              30 g
+Dietary Fiber                  6 g
+Total Sugars                    6 g
+Protein                             14 g ","no French Baguette
+",
+Soup,Summer Corn Chowder,6.49,"Roasted corn and skin-on red potatoes simmered with sweet cream, poblano peppers and cilantro.
+Side: French Baguette","Calories                           320 Cal
+Calories                            180 Cal
+from Fat
+Fat                                      20 g
+Saturated                        12 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    60 mg
+Sodium                            1310 mg
+Carbohydrates              34 g
+Dietary Fiber                  3 g
+Total Sugars                    8 g
+Protein                             5 g ","no French Baguette
+",
+Soup,Soutwest Chicken Tortilla Soup,6.49,"Zesty roasted tomato and chili broth with slow-simmered chicken, masa, corn, poblano peppers, black beans, and hominy with lime and cilantro. Garnered with masa chips.
+Side: French Baguette","Calories                           250 Cal
+Calories                            80 Cal
+from Fat
+Fat                                      8 g
+Saturated                        1 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    30 mg
+Sodium                            1080 mg
+Carbohydrates              32 g
+Dietary Fiber                  1 g
+Total Sugars                    3 g
+Protein                             14 g ","no French Baguette
+",
+Sandwiches,Turkey Sandwich,7.69,"Oven-roasted turkey breast raised without antibiotics, emerald greens, vine-ripened tomatoes, red onions, mayo, spicy mustard, salt and pepper on whole grain bread.","Calories                           540 Cal
+Calories                            150 Cal
+from Fat
+Fat                                      17 g
+Saturated                        3 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    55 mg
+Sodium                            1180 mg
+Carbohydrates              64 g
+Dietary Fiber                  9 g
+Total Sugars                    8 g
+Protein                             37 g ","+ Make it a Wrap                                               free
++ Sourdough bread                                          free
++ Focaccia bread                                                free
++ American Cheese                                          $0.99
++ Swiss Cheese                                                  $0.99
++ Bacon                                                                 $0.99
++ Artisan Ham                                                    $1.50
++ Avocado                                                            $0.99
+no Emerald Greens
+no Red Onions
+no Sliced Tomatoes
+no Mayo
+Mayo on the side
+no Mustard
+Mustard on the side
+no Salt
+no Pepper",
+Sandwiches,Napa Almond Chicken Salad Sandwich,7.69,"Chicken raised without antibiotics tossed with celery, seedless grapes, toasted almonds and special dressing, and served with emerald greens, vine-ripened tomatoes, salt and pepper on sourdough bread.","Calories                           630 Cal
+Calories                            280 Cal
+from Fat
+Fat                                      31 g
+Saturated                        4.5 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    70 mg
+Sodium                            670 mg
+Carbohydrates              62 g
+Dietary Fiber                  5 g
+Total Sugars                    12 g
+Protein                             29 g ","+ Whole Grain bread                                          free
++ Focaccia bread                                                free
+no Emerald Greens
+no Vine-Ripened Tomatoes
+no Salt
+no Pepper",
+Sandwiches,Heritage Ham & Swiss,7.69,"Artisan ham, emerald greens, mayo, spicy mustard, on sourdough bread.","Calories                           630 Cal
+Calories                            280 Cal
+from Fat
+Fat                                      31 g
+Saturated                        11 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    100 mg
+Sodium                            1390 mg
+Carbohydrates              48 g
+Dietary Fiber                  3 g
+Total Sugars                    2 g
+Protein                             42 g ","+ Make it a Wrap                                                free
++ Whole Grain bread                                        free
++ Focaccia bread                                                free
++ American Cheese                                          $0.99
++ Bacon                                                                 $0.99
++ Avocado                                                            $0.99
+no Swiss cheese
+no Emerald Greens
+no Mayo
+Mayo on the side
+no Mustard
+Mustard on the side
+",
+Sandwiches,Mediterranean Veggie Sandwich,7.69,"Zesty sweet red peppers, feta, cucumbers, emerald greens, vine-ripened tomatoes, red onions, hummus, salt and pepper on whole grain bread.","Calories                           470 Cal
+Calories                            120 Cal
+from Fat
+Fat                                      13 g
+Saturated                        3 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    10 mg
+Sodium                            1150 mg
+Carbohydrates              68 g
+Dietary Fiber                  6 g
+Total Sugars                    8 g
+Protein                             18 g ","+ Make it a Wrap                                               free
++ Sourdough bread                                          free
++ Focaccia bread                                                free
++ Avocado                                                            $0.99
+no feta
+no Emerald Greens
+no Red Onions
+no Vine-Ripened Tomatoes
+no Hummus
+Hummus on the side
+no Salt
+no Pepper",
+Sandwiches,Tuna Salad Sandwich,7.69,"Our special recipe tuna salad, emerald greens, vine-ripened tomatoes, red onions, salt and pepper on focaccia bread.","Calories                           650 Cal
+Calories                            310 Cal
+from Fat
+Fat                                      35 g
+Saturated                        5 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    40 mg
+Sodium                            1350 mg
+Carbohydrates              58 g
+Dietary Fiber                  4 g
+Total Sugars                    5 g
+Protein                             28 g ","+ Sourdough bread                                          free
++ Whole Grain bread                                        free
++ Avocado                                                            $0.99
+no Emerald Greens
+no Red Onions
+no Vine-Ripened Tomatoes
+no Salt
+no Pepper",
+Salads,Caesar Salad,7.49,"Romaine lettuce, parmesan and homemade focaccia croutons tossed with Caesar dressing.  Side: French Baguette","Calories                           340 Cal
+Calories                            230 Cal
+from Fat
+Fat                                      26 g
+Saturated                        7 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    45 mg
+Sodium                            620 mg
+Carbohydrates              18 g
+Dietary Fiber                  4 g
+Total Sugars                    3 g
+Protein                             10 g ","+ Chicken                                                             $1.99
++ Bacon                                                                 $0.99
++ Avocado                                                            $0.99
+no Parmesan
+Parmesan on the side
+no Croutons
+Croutons on the side
+no Caesar dressing
+Caesar dressing on the side
+no Salt
+no Pepper",
+Salads,Greek Salad,7.49,"Romaine lettuce, grape tomatoes, feta, red onion, kalamata olives, salt and pepper tossed in Greek dressing with pepperoncini.
+Side: French Baguette","Calories                           410 Cal
+Calories                            330 Cal
+from Fat
+Fat                                      36 g
+Saturated                        8 g
+Fat
+Trans Fatty                      0.5 g
+Acid
+Cholesterol                    25 mg
+Sodium                            1190 mg
+Carbohydrates              15 g
+Dietary Fiber                  6 g
+Total Sugars                    6 g
+Protein                             9 g ","+ Chicken                                                             $1.99
++ Bacon                                                                 $0.99
++ Avocado                                                            $0.99
+no Feta
+Feta on the side
+no Olives
+Olives on the side
+no Greek dressing
+Greek dressing on the side
+no Red Onions
+no Grape Tomatoes
+no Pepperoncini
+no Salt
+no Pepper",
+Salads,Strawberry Poppyseed Salad with Chicken,11.19,"Chicken raised without antibiotics, romaine, mandarin oranges and fresh strawberries, blueberries and pineapple tossed in poppyseed dressing and topped with toasted pecan pieces.
+Side: French Baguette","Calories                           190 Cal
+Calories                            100 Cal
+from Fat
+Fat                                      11 g
+Saturated                        2 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            140 mg
+Carbohydrates              21 g
+Dietary Fiber                  4 g
+Total Sugars                    14 g
+Protein                             4 g ","- Chicken                                                            -$1.99
+no pecan pieces
+no dressing
+dressing on the side
+Balsamic vinaigarette
+Caesar dressing
+Greek dressing
+Fat-Free Poppyseed dressing
+",
+Salads,Seasonal Greens Salad,7.49,"Arugula, romaine, kale and radicchio blend, grape tomatoes, red onions and diced cucumbers tossed with reduced-fat balsami vinaigarette.
+Side: French Baguette","Calories                           190 Cal
+Calories                            100 Cal
+from Fat
+Fat                                      11 g
+Saturated                        2 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            140 mg
+Carbohydrates              21 g
+Dietary Fiber                  4 g
+Total Sugars                    14 g
+Protein                             4 g ","+ Chicken                                                             $1.99
++ Bacon                                                                 $0.99
++ Avocado                                                            $0.99
+no red onions
+no grape tomatoes
+no dressing
+dressing on the side
+Balsamic vinaigarette
+Caesar dressing
+Greek dressing
+Fat-Free Poppyseed dressing
+no Salt
+no Pepper",
+Pasta,Mac & Cheese,8.89,"Tender shell pasta in a blend of rich cheeses including a tangy Vermont white cheddar cheese sauce.
+Side: French Baguette","Calories                           1010 Cal
+Calories                            600 Cal
+from Fat
+Fat                                      67 g
+Saturated                        37 g
+Fat
+Trans Fatty                      2.5 g
+Acid
+Cholesterol                    200 mg
+Sodium                            2220 mg
+Carbohydrates              67 g
+Dietary Fiber                  2 g
+Total Sugars                    16 g
+Protein                             33 g ","+ Chicken                                                             $1.99
++ Bacon                                                                 $0.99
++ Avocado                                                            $0.99
+",
+Pasta,Tortellini Alfredo,8.89,"Tortellini pasta filled with a three-cheese blend, tossed in alfredo sauce and topped with parmesan.
+Side: French Baguette","Calories                           720 Cal
+Calories                            350 Cal
+from Fat
+Fat                                      39 g
+Saturated                        21 g
+Fat
+Trans Fatty                      1 g
+Acid
+Cholesterol                    115 mg
+Sodium                            1500 mg
+Carbohydrates              68 g
+Dietary Fiber                  3 g
+Total Sugars                    2 g
+Protein                             25 g ","+ Chicken                                                             $1.99
++ Bacon                                                                 $0.99
++ Avocado                                                            $0.99
+",
+Snacks,Apple,0.99,Fresh apple.,"Calories                           80 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            0 mg
+Carbohydrates              22 g
+Dietary Fiber                  5 g
+Total Sugars                    16 g
+Protein                             0 g ",,
+Snacks,Banana,0.99,Banana,"Calories                           90 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            0 mg
+Carbohydrates              23 g
+Dietary Fiber                  3 g
+Total Sugars                    12 g
+Protein                             1 g ",,
+Snacks,Homestyle Chocolate Chunk Cookie,3.49,"A large homestyle cookie made with large semi-sweet chocolate chunks, with a crispy outside and soft gooey inside.  Big enough to share.","Calories                           630 Cal
+Calories                            290 Cal
+from Fat
+Fat                                      33 g
+Saturated                        20 g
+Fat
+Trans Fatty                      1 g
+Acid
+Cholesterol                    75 mg
+Sodium                            380 mg
+Carbohydrates              85 g
+Dietary Fiber                  4 g
+Total Sugars                    47 g
+Protein                             7 g ",,
+Snacks,Oatmeal Raising with Berries Cookie,2.49,"A chewy oatmeal raisin cookie with sweetened, dried cranberries and infused, dried strawberries and blueberries","Calories                           350 Cal
+Calories                            110 Cal
+from Fat
+Fat                                      13 g
+Saturated                        7 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    50 mg
+Sodium                            170 mg
+Carbohydrates              54 g
+Dietary Fiber                  2 g
+Total Sugars                    33 g
+Protein                             4 g ",,
+Snacks,Triple Chocolate Cookie with Walnuts,2.49,"A freshly baked flourless chocolate cookie with a soft, brownie-like texture, made with chocolate chunks, white chocolate chunks and walnuts.","Calories                           320 Cal
+Calories                            120 Cal
+from Fat
+Fat                                      13 g
+Saturated                        6 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    10 mg
+Sodium                            125 mg
+Carbohydrates              53 g
+Dietary Fiber                  6 g
+Total Sugars                    44 g
+Protein                             5 g ",,
+Snacks,Chips,0.99,Kettle-cooked potato chips,"Calories                           150 Cal
+Calories                            80 Cal
+from Fat
+Fat                                      9 g
+Saturated                        1 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            75 mg
+Carbohydrates              17 g
+Dietary Fiber                  1 g
+Total Sugars                    1 g
+Protein                             2 g ",,
+Beverages,Light Roast Coffee,2.39,"Soft and smooth with hints of citrus, roasted nuts and chocolate.  A blend of Central and South American beans.  Light bodied with a bright sweetness.  Freshly ground in cafes.","Calories                           20 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              3 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             1 g ","Regular
+Large
+Small",
+Beverages,Hazelnut Coffee,2.39,"Soft and smooth with a buttery toasted hazelnut flavor. 100% Arabica coffee balanced with the flavor of buttery, toasted hazelnuts.  Freshly ground in cafes.","Calories                           20 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              3 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             1 g ","Regular
+Large
+Small",
+Beverages,Dark Roast Coffee,2.39,"Rich and bold full body with dark chocolate notes and a nutty, sweet finish. Brewed from beans harvested from the volcanic soils of Costa Rica and Columbia.  Freshly ground in cafes.","Calories                           20 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              4 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             1 g ","Regular
+Large
+Small",
+Beverages,Decaf Coffee,2.39,"Medium body with sweet caramel and citrus notes.  A smooth and balanced from Antioquia, Colombia.  Fresh tasting with a clean finish.  Freshly ground in cafes.","Calories                           20 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              2 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             1 g ","Regular
+Large
+Small",
+Beverages,Iced Coffee,2.39,Freshly brewed coffee served over ice.,"Calories                           15 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            15 mg
+Carbohydrates              3 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             1 g ","Regular
+Large
+Small",
+Beverages,Cold Brew,2.99,Dark roast cold brew coffee served over ice.,"Calories                           10 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            15 mg
+Carbohydrates              2 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             1 g ","Regular
+Large
+Small",
+Beverages,Hot Tea,2.39,Hot 'Republican of Tea' Teas,"Calories                           0 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            15 mg
+Carbohydrates              1 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             0 g ",,
+Beverages,Agave Lemonade,2.59,"Crisp Lemonade made with lemon juice, sugar, agave nectar and water.","Calories                           160 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              43 g
+Dietary Fiber                  0 g
+Total Sugars                    41 g
+Protein                             0 g ",,
+Beverages,Iced Tea,2.59,Freshly brewed black iced tea.,"Calories                           130 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              31 g
+Dietary Fiber                  0 g
+Total Sugars                    31 g
+Protein                             0 g ",,
+Beverages,Bottled Water,1.99,Individual bottle of water.,"Calories                           0 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              0 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             0 g ",,
+Beverages,San Pellegrino Sparkling Water,2.69,San Pellegrino Sparkling Water.,"Calories                           0 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              0 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             0 g ",,
+Beverages,San Pellegrino Orange,2.69,San Pellegrino Sparkling Water.,"Calories                           0 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            10 mg
+Carbohydrates              0 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             0 g ",,
+Beverages,Spindrift Raspberry Lime Selzer,2.69,Selzer with raspberries and fresh squeezed lime juice.,"Calories                           10 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            0 mg
+Carbohydrates              2 g
+Dietary Fiber                  0 g
+Total Sugars                    2 g
+Protein                             0 g ",,
+Beverages,Spindrift Mango Orange Selzer,2.69,Sparkling Water with fresh squeezed orange and alphonso mango puree.,"Calories                           10 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            0 mg
+Carbohydrates              3 g
+Dietary Fiber                  0 g
+Total Sugars                    1 g
+Protein                             0 g ",,
+Beverages,Spindrift Lemon Selzer,2.69,Selzer with fresh squeezed lemon juice.,"Calories                           0 Cal
+Calories                            0 Cal
+from Fat
+Fat                                      0 g
+Saturated                        0 g
+Fat
+Trans Fatty                      0 g
+Acid
+Cholesterol                    0 mg
+Sodium                            0 mg
+Carbohydrates              1 g
+Dietary Fiber                  0 g
+Total Sugars                    0 g
+Protein                             0 g ",,
